@@ -68,13 +68,12 @@ Documentação: Google Docs
 
 ## 7. Testes e Issues
 ### Exemplos de Testes Realizados
-- (Descreva os testes feitos, unitários ou manuais)
+Testes de Interface (UI)
+Verificação da navegação entre telas
 
 ### Registro de Issues
-- **Issue 01:** (Descrição) — Resolvida  
-- **Issue 02:** (Descrição) — Em aberto  
-- **Issue 03:** (Descrição) — Resolvida  
-- ...
+- **Valores exibidos como “R$ 00,0** Descrição: Saldo e preço de livros aparecem como “R$ 00,0”, indicando erro de formatação. — Resolvida  
+- **Issue 03 – Repetição de elementos** Descrição: Trecho duplicado sugerindo falha de layout ou placeholder não removido. Resolvido   
 
 ---
 
