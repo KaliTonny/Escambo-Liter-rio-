@@ -80,9 +80,10 @@ Verificação da navegação entre telas
 ## 8. Documentação Final
 Arquivos incluídos no repositório:
 - `README.md`
-- `Relatório_Final.pdf`
+- [Apresentacao_Escambo_Literario_SESI.pptx](https://github.com/user-attachments/files/23700328/Apresentacao_Escambo_Literario_SESI.pptx)
 - `[Prototipo_Figma_Link.txt](https://buy-rank-80514693.figma.site/catalogo)`
-- `Relatório_Final.pdf`
+-[BUSINESS CANVA.pdf](https://github.com/user-attachments/files/23700326/BUSINESS.CANVA.pdf)
+
 ---
 
 ## 9. Créditos
