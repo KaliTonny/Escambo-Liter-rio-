@@ -81,8 +81,8 @@ Verificação da navegação entre telas
 Arquivos incluídos no repositório:
 - `README.md`
 - `Relatório_Final.pdf`
-- `Prototipo_Figma_Link.txt`
-
+- `[Prototipo_Figma_Link.txt](https://buy-rank-80514693.figma.site/catalogo)`
+- `Relatório_Final.pdf`
 ---
 
 ## 9. Créditos
