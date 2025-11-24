@@ -57,7 +57,7 @@ Separamos as atividades em topicos e depois cada um escolheu o que queria fazer.
 - Sistema de troca — ❌  
 - Chat entre usuários — ❌  
 - Página inicial — ❌  
-- Página de Créditos 
+- Página de Créditos ❌
 ---
 
 ## 6. Tecnologias Utilizadas
