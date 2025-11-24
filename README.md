@@ -82,7 +82,7 @@ Arquivos incluídos no repositório:
 - `README.md`
 - [Apresentacao_Escambo_Literario_SESI.pptx](https://github.com/user-attachments/files/23700328/Apresentacao_Escambo_Literario_SESI.pptx)
 - `[Relatorio final.pdf](https://github.com/user-attachments/files/23700430/Relatorio.final.pdf)
-[Prototipo_Figma_Link.txt](https://buy-rank-80514693.figma.site/catalogo)`
+- [Prototipo_Figma_Link.txt](https://buy-rank-80514693.figma.site/catalogo)`
 
 
 ---
