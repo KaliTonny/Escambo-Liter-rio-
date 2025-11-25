@@ -81,7 +81,7 @@ Verificação da navegação entre telas
 Arquivos incluídos no repositório:
 - `README.md`
 - `[Relatorio final.pdf](https://github.com/user-attachments/files/23700430/Relatorio.final.pdf)
-- [Prototipo_Figma_Link.txt](https://buy-rank-80514693.figma.site/catalogo)`
+- https://buy-rank-80514693.figma.site/
 - https://docs.google.com/document/d/1i2yMARqbiLv2WhkrNKSgy896FVqOIrNULecBde-KTYU/edit?tab=t.0#heading=h.bf1ccr9v40tp
 
 ---
